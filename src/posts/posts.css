@@ -1,3 +1,4 @@
 .posts{
-    
+    flex: 9; /*PS the dispay:flex, is in home.css */
+
 }
