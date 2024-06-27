@@ -1,4 +1,6 @@
 .posts{
     flex: 9; /*PS the dispay:flex, is in home.css */
-
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
 }
